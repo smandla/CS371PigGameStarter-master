@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from [com.android.support:support-v4:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/146e41d1782dcf2fb0171fe1855c6042/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/098ff3f5533106048bab5ec3428a6bf7/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/eb7582cefd5d27f851a31943548693f3/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/89648170a054f736e3a1b3c7a95d8111/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/fb31ff5895aa153dc6a81359476d4936/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/b7abb5f8e3dff1653ad1466dd5de2510/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:1:1-28:12
+	package
+		ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/146e41d1782dcf2fb0171fe1855c6042/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/146e41d1782dcf2fb0171fe1855c6042/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/098ff3f5533106048bab5ec3428a6bf7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/098ff3f5533106048bab5ec3428a6bf7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/eb7582cefd5d27f851a31943548693f3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/eb7582cefd5d27f851a31943548693f3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/89648170a054f736e3a1b3c7a95d8111/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/89648170a054f736e3a1b3c7a95d8111/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/fb31ff5895aa153dc6a81359476d4936/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/fb31ff5895aa153dc6a81359476d4936/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/b7abb5f8e3dff1653ad1466dd5de2510/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/b7abb5f8e3dff1653ad1466dd5de2510/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:6:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/146e41d1782dcf2fb0171fe1855c6042/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:7:9-35
+		INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:11:22-76
+application
+ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:13:5-26:19
+MERGED from [com.android.support:support-v4:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/146e41d1782dcf2fb0171fe1855c6042/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/146e41d1782dcf2fb0171fe1855c6042/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/098ff3f5533106048bab5ec3428a6bf7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/098ff3f5533106048bab5ec3428a6bf7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/eb7582cefd5d27f851a31943548693f3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/eb7582cefd5d27f851a31943548693f3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/89648170a054f736e3a1b3c7a95d8111/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/89648170a054f736e3a1b3c7a95d8111/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/fb31ff5895aa153dc6a81359476d4936/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/fb31ff5895aa153dc6a81359476d4936/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/b7abb5f8e3dff1653ad1466dd5de2510/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /Users/kavyamandla/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/b7abb5f8e3dff1653ad1466dd5de2510/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:14:9-39
+	android:theme
+		ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:16:9-40
+activity#edu.up.cs301.pig.PigMainActivity
+ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:configChanges
+		ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:19:13-83
+	android:name
+		ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:18:19-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/kavyamandla/Downloads/CS371PigGameStarter-master-2/app/src/main/AndroidManifest.xml:22:27-74
